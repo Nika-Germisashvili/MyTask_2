@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 366px;
+  height: 420px;
+  background: rgba(250, 244, 239, 1);
+  margin: 50 auto;
+  margin-top: 270px;
+  margin-bottom: 334px;
+  padding-top: 30px;
+  border-radius: 0px 0px 0px 50px;
+}
+
+.header {
+  margin-left: 46px;
+  font-size: 36px;
+  color: rgba(75, 75, 75, 1);
+}
+
+.text {
+  color: rgba(115, 115, 115, 1);
+  font-size: 24px;
+  margin-left: 46px;
+}
+
+img {
+  width: 299px;
+  height: 299px;
+  margin-left: 33px;
+  margin-top: 16px;
+}
+
+/*                :)                                                                                  */
